@@ -1,0 +1,1 @@
+//component composation : when we write/wrapper inside of another comoponent that is colled as component composation
